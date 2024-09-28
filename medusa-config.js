@@ -117,4 +117,7 @@ module.exports = {
   projectConfig,
   plugins,
   modules,
+  serverConfig:{
+    port: 9000
+  }
 };
